@@ -1,0 +1,32 @@
+img{
+	height: 220px;
+	width: 230px;
+	border-radius:20px;
+	margin-left: 1px;
+	padding: 10px;
+	
+}
+p{
+	text-indent:12px ;
+	margin-left: 15px;
+	font-family: lato;
+	font-size: 13px;
+	color: gray;
+}
+h3{
+	text-indent: 12px;
+	margin-left: 15px;
+    font-family: lato;
+
+}
+div{
+	margin-top: 150px;
+	margin-left:550px;
+	background-color: #ffffff;
+	position: absolute;
+	height: 400px;
+	border-radius: 10px;
+}
+body{
+	background-color: skyblue;
+}
